@@ -36,4 +36,3 @@ s4.set_size(0.4)
 
 message1 = codesters.Text("Spencer",0,220,"Goldenrod")
 message2 = codesters.Text(":)",0,-220,"Goldenrod")
-

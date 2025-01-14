@@ -1,9 +1,9 @@
 import turtle
-
+# begging 
 t = turtle.Turtle()
 
 t.speed(0)
-
+# here is where i start the art
 t.color("hot pink")
 
 for i in range (250) :
@@ -87,5 +87,5 @@ t.pendown()
 t.penup()
 t.goto(0,0)
 t.pendown()
-
+# very end :)
 turtle.exitonclick()
